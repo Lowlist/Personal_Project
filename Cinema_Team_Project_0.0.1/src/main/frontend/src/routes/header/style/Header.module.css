@@ -1,0 +1,37 @@
+.header{
+    color: #F3F3F3;
+    font-weight: 600;
+    padding-top:30px;
+    padding-bottom:30px;
+    display: flex;
+}
+
+.icon{
+    padding-left:6%;
+    padding-right: 6%;
+    font-size: 27px;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.mainMenu{
+    display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
+    gap: 35px;
+    font-size: 23px;
+}
+
+.profile,
+.portFolio,
+.github,
+.moreBtn{
+    cursor: pointer;
+}
+
+.profile:hover,
+.portFolio:hover,
+.github:hover{
+    color: aqua;
+    text-decoration: underline;
+}
