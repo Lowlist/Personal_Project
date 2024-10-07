@@ -2,41 +2,13 @@ function Content (){
     return(
         <div>
             <div>
-                <div>
-                </div>
-                <div>
-                </div>
-                <div>
-                </div>
             </div>
-
             <div>
-                <div>
-                </div>
-                <div>
-                </div>
-                <div>
-                </div>
             </div>
-
             <div>
-                <div>
-                </div>
-                <div>
-                </div>
-                <div>
-                </div>
             </div>
-
             <div>
-                <div>
-                </div>
-                <div>
-                </div>
-                <div>
-                </div>
             </div>
-            
         </div>
     )
 }
